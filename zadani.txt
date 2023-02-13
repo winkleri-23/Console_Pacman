@@ -1,0 +1,11 @@
+
+Jako téma svojí semestrální práce jsem si vybral známou hru Pacman, kde hodlám splnit jak všechny standartní náležitosti patřící ke hře, tak ty zadané progtestem. 
+
+To znamená :
+	1)Načítání map ze souboru - konkrétně plánuji mít 3 mapy + možnost vytvoření vlastní mapy
+	2)Škálovatelná obtížnost - easy, medium, hard --> různé chytrost chobotniček
+	3)Standartní objekty - Pacman, Chobotnička, zeď, coin, třešnička, bonus(požírání chobotniček)
+	4)Teleport 
+	
+
+Hra se bude celá vypisovat na terminál bez použití ncurses. 
